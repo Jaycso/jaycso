@@ -1,3 +1,5 @@
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaycso&theme=github_dark)
+
 ## Hello there! 👋
 
 🏫 Currently studying at University College Isle of Man
