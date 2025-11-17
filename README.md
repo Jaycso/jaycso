@@ -17,6 +17,6 @@
 
 🌱 Planning to study CS at uni
 
-🧑‍💻 Primarily code in Golang, and apparantly python
+🧑‍💻 Primarily code in Golang, and apparantly Python
 
 🏳️‍🌈 Shh
