@@ -1,13 +1,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaycso&theme=github_dark)
 
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=Home%20Assistant&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
 
 ## Hello there! 👋
 
