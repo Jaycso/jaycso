@@ -13,9 +13,7 @@
 
 ## Hello there! 👋
 
-🏫 Currently studying at University College Isle of Man
-
-🌱 Planning to study CS at uni
+🏫 Studying BSc Computer Science at Lancaster University. Up the ness!
 
 🧑‍💻 Primarily code in Golang, and apparantly Python
 
